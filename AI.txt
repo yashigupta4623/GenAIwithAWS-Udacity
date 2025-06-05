@@ -1,0 +1,66 @@
+AI is computing simulating human interlligence processes. These processes includes learning, reasoning, self-correction and even potential for creativity.
+
+AI > ML >DL
+
+Usage of AI :
+- Smart Cities : Manage traffic flow, Reduce energy consumption.
+- Healthcare : Assist in Diagnosis.
+- Farming : Drones montior crops, Optimising yields.
+
+ELIZA, a computer program created in the 1960s, was one of the first programs designed to have a conversation with people.
+
+Artificial Intelligence (AI) involves simulating human-like reasoning and cognitive processes in computers, aimed at creating systems capable of performing tasks requiring intelligence when done by humans. These tasks include:
+
+Recognizing patterns.
+Speech recognition.
+Decision-making.
+Making predictions.
+
+In AI, the goal is to replicate human learning and decision-making processes by creating sophisticated computer programs that can:
+
+Process vast data.
+Learn patterns.
+Make informed decisions.
+
+Artificial Intelligence (AI) is subtly integrated into our daily lives, making tasks simpler, more efficient, and personalized. It's often unnoticed, termed as "silent" AI. Examples include:
+
+Auto-tagging in social media.
+Fraud detection in banking.
+Recommendation systems in music playlists or online shopping.
+Smart thermostats adjusting temperatures.
+Ride-sharing apps optimizing routes and prices.
+Wearable devices monitoring health metrics.
+
+Alexa is an AI-powered virtual assistant housed in an Amazon Echo Dot device. Alexa can:
+
+Understand and process voice commands.
+Make informed decisions.
+Learn from user interactions to improve its responses over time.
+Alexa uses AI to:
+
+Recognize speech patterns.
+Understand context.
+Predict user preferences for personalized content.
+
+
+The 8 Dimensions of Responsible AI
+To build AI that people can trust, we need to think about these key areas:
+
+1. Fairness: AI Should Treat Everyone Equally
+Imagine you ask Alexa, “What are the best colleges near me?”, but it only recommends colleges for a certain group of people, leaving out others. That would be unfair AI.
+2. Explainability: AI Shouldn’t Be a Black Box
+If you ask a chatbot, “Why did you give me this answer?”, and it can’t explain itself, that’s a problem.
+3. Privacy & Security: AI Should Protect Personal Data
+4. Transparency: AI Shouldn’t Hide How It Works
+Ever used an app that randomly changes its recommendations without telling you why? That’s a lack of transparency.
+5. Robustness: AI Should Work Even in Unpredictable Situations
+6. Governance: AI Should Follow Rules & Ethical Standards
+7. Safety: AI Shouldn’t Cause Harm
+8. Controllability: Humans Should Stay in Charge
+AI should never be completely out of human control. 
+
+Why Should You Care About Responsible AI?
+AI is shaping the future of education, jobs, social media, and even healthcare.
+If you use Alexa, chatbots, or recommendation systems, you’re already interacting with AI every day.
+As future leaders and AI creators, you have the power to help build fair, safe, and transparent AI systems.
+By keeping these 8 dimensions of responsible AI in mind, you can help create AI that benefits everyone.
